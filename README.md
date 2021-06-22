@@ -1,1 +1,1 @@
-# bookblog by Ami Parikh
+# bookblog by Ami Parikh and Mihir Parikh
